@@ -6,3 +6,8 @@ theme:
     hljs_languages:
         - yaml
         - rust
+
+nav:
+    - Accueil: index.md
+    - Temps: 
+      - Augustin: temps/augustin.md
